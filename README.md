@@ -36,4 +36,5 @@ Para restringir anda mais as resposta do agente em “Tópicos”, foram elimina
 [PDF print Tópico 02](<Criação de Tópico 02.pdf>)
 
 Aprendizados: 
-    - Como criar e configurar um agente no Microsoft Copilot Studio sem necessidade de programação avançada e como estruturar um fluxo de conversa.
+
+Como criar e configurar um agente no Microsoft Copilot Studio sem necessidade de programação avançada e como estruturar um fluxo de conversa.
