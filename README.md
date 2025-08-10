@@ -29,7 +29,7 @@ No tópico “Conhecimento”, foi substituído o link do site de viagens sugeri
 
 [Arquivo docx fluxo de agente de viagens](<Fluxo de Funcionamento para Cadastramento de Pacotes de Viagem.docx>)
 
-Para restringir anda mais as resposta do agente em “Tópicos”, foram eliminados todos os Tópicos criados automaticamente e substituído por tópico personalizado chamado “Cadastro de Viagem”, para restringir o destino do pacote de viagens para Rio de Janeiro, são Paulo e Minas Gerais.
+Também foi desenvolvido um “Tópicos” personalizado para fins de didáticos, somente para fins de testes do potencial do Microsoft Copilot Studio.
 
 [PDF print Tópico 01](<Criação de Tópico 01.pdf>)
 
