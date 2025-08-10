@@ -10,10 +10,12 @@ O conteúdo prático teve como meta criar um agente de IA no Copilot Studio capa
 
 Para realização do exercício foi criado uma conta de estudante no Microsoft Copilot Studio como validade de 30 dias.
 
-Criação de agente: Para criação do agente, foi utilizado um modelo de agente já existente chamado “Viagens Seguras”. Onde foi:
-    Definido um nome;
-    Feito uma descrição da atuação do agente;
-    Descrito uma instrução para o agente de IA no Copilot Studio.
+Criação de agente: Para criação do agente, foi utilizado um modelo de agente já existente chamado “Viagens Seguras”. 
+
+- Onde foi:
+    - Definido um nome;
+    - Feito uma descrição da atuação do agente;
+    - Descrito uma instrução para o agente de IA no Copilot Studio.
 
 ![Copilot Studio](<Copilot Studio.jpg>)
 
